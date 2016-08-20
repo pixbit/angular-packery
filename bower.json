@@ -7,6 +7,9 @@
     "type": "git",
     "url": "http://github.com/sungard-labs/angular-packery.git"
   },
+  "dependencies": {
+    "packery": "2.1.0"
+  },
   "main": "dist/packery.js",
   "keywords": [
     "packery",
